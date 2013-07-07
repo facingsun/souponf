@@ -2,7 +2,7 @@
 //  SPLoginViewController.m
 //  SouPon
 //
-//  Created by Edward on 13-6-17.
+//  Created by Edward on 13-3-17.
 //  Copyright (c) 2013年 Edward. All rights reserved.
 //
 
