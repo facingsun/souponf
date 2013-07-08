@@ -2,7 +2,7 @@
 //  AppDelegate.m
 //  SouPon
 //
-//  Created by Edward on 13-3-21.
+//  Created by Edward on 13-2-21.
 //  Copyright (c) 2013年 Edward. All rights reserved.
 //
 
